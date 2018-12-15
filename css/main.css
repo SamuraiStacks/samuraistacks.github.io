@@ -19,3 +19,12 @@ h1 {
 h2 {
     font-size: 20px
 }
+
+/* Footer */
+.footer {
+    margin-top: 170px;
+}
+
+.footer h1 {
+    font-size: 18px;
+}
