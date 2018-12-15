@@ -1,0 +1,21 @@
+body {
+    background-color: #00082A;
+}
+
+/* Navbar */
+#navside .current {
+    color: white;
+}
+
+/* Introduction Section */
+.section img {
+    border-radius: 50%;
+}
+
+h1 {
+    font-size: 28px
+}
+
+h2 {
+    font-size: 20px
+}
