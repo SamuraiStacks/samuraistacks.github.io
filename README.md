@@ -1,2 +1,3 @@
 # Website
-Just my website that shows stuff about me, whatever
+My old website from 2018-19  
+I didn't really maintain it so its pretty broken 
